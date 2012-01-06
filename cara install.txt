@@ -1,0 +1,7 @@
+cara installasi :
+1. copy data file EdUbuntuTutorial pada storage device anda
+	didalam nya terdapat 2 jenis, yaitu yang berbentuk project java dan *.jar
+	file *.jar tinggal copy saja dan harus terdapat minimal java Runtime Environtmen..
+2. copy folder "sourceimk" ke direktory C:\ anda...
+
+****selamat mencoba***
